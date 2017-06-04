@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f255fa8fc429e5240ab9e82b7ab8175f
+timeCreated: 1462336952
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - SawSomethingIndicator: {fileID: 115722, guid: edb42c00fffd75941a1848e9bada4a53,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
